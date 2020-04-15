@@ -8,3 +8,19 @@ canvas {
 h1, #bubbles {
   margin: auto;
 }
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+li {
+  display: inline;
+  margin: 5px;
+  padding: 10px;
+  border: 2px solid;
+}
+#top {
+  margin: auto;
+}
