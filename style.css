@@ -1,5 +1,5 @@
 html, body {
-  margin: 0;
+  margin: 100px;
   padding: 0;
 }
 canvas {
@@ -16,7 +16,6 @@ ul {
 }
 
 li {
-  display: inline;
   margin: 5px;
   padding: 10px;
   border: 2px solid;
