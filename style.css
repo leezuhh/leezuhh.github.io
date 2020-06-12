@@ -1,5 +1,5 @@
 html, body {
-  margin: 100px;
+  margin: 50px;
   padding: 0;
 }
 canvas {
@@ -15,7 +15,7 @@ ul {
   margin-top: 20px;
 }
 
-li {
+li, #site p{
   margin: 5px;
   padding: 10px;
   border: 2px solid;
