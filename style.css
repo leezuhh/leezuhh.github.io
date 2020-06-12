@@ -15,7 +15,7 @@ ul {
   margin-top: 20px;
 }
 
-li, #site p{
+li, #site {
   margin: 5px;
   padding: 10px;
   border: 2px solid;
